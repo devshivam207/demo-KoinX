@@ -1,9 +1,11 @@
 # <span style="font-size:larger;">Ethereum Transaction Tracker</span>
 
 ##Overview
+
 This project is a simple Ethereum transaction tracker built using Node.js, Express.js, MongoDB, and ethers.js. It allows users to fetch transaction details for a specific Ethereum address, calculate the balance in Ether, and convert it to the equivalent value in INR (Indian Rupees) based on real-time exchange rates.
 
-Features
+Features : 
+
 -> Fetch transaction details for a specific Ethereum address.
 -> Calculate the balance in Ether for the address.
 -> Convert the balance to the equivalent value in INR using real-time exchange rates fetched from the CoinGecko API.
